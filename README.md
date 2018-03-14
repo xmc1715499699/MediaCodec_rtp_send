@@ -1,0 +1,2 @@
+# MediaCodec_rtp_send
+摄像头预览用MediaCodec编码h264数据，再用rtp发送实时数据流
